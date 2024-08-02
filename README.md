@@ -1,18 +1,10 @@
-# Lorem Ipsum
+# Hi there! 👋
 =====================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.
+[harry@archlinux ~]$ cat aboutMe.txt
 
 ## Lorem Ipsum
 
-* **Lorem Ipsum**: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* **Lorem Ipsum**: Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.
-* **Lorem Ipsum**: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-## Lorem Ipsum
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.
-
-## Lorem Ipsum
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.
+* **My awesome website**: https://harrynfr.xyz/
+* **My hobbies**: I enjoy computing, networking, and I especially enjoy learning about linux.
+* **My languages**: I know some HTML and some C. However I am able to write functional shell scripts as I have existing knowledge in linux.
