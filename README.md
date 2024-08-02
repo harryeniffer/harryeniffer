@@ -1,5 +1,4 @@
 # Hi there! 👋
-=====================
 
 [harry@archlinux ~]$ cat aboutMe.txt
 
